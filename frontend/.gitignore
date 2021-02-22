@@ -1,0 +1,14 @@
+node_modules
+
+#frontend
+frontend/dist
+frontend/webpack_cache
+frontend/test
+
+#backend
+__pycache__
+db.sqlite3
+*.pyc
+.idea/
+file_test.py
+__cache__/
