@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/ling/lee/code/zjvisNew/parser_service/master.py", line 17, in <module>
+    from utils.redis_utils import RedisInstance
+ModuleNotFoundError: No module named 'utils'
